@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AI_INJECTOR/AI_INJECTOR.vcxproj" Id="db90f785-71cd-48ea-80f2-9f0ffa696de7" />
+  <Project Path="INTERNAL_DLL/INTERNAL_DLL.vcxproj" Id="72baea83-cd88-4f5a-ad9d-4e70d73b11be" />
+</Solution>
